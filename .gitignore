@@ -1,0 +1,16 @@
+# Build-artifacts
+build.log
+*.3gx
+*.elf
+*.o
+*.d
+Build/
+
+# Save-files (privacy: niet committen — kunnen andermans town-data bevatten)
+*.dat
+garden_plus.dat
+
+# Scratch / OS
+*.tmp
+Thumbs.db
+.DS_Store
