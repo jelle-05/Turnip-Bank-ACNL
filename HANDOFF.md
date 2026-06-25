@@ -20,6 +20,9 @@ Lees in volgorde:
 2. [`research/README.md`](research/README.md) — status + kernconclusies van alle 13 onderzoeksstappen.
 3. [`fase1-conceptplan.md`](fase1-conceptplan.md) — het ontwikkelplan + milestones (M1–M5).
 
+> **Met Claude Code verdergaan?** Open Claude Code in deze map en plak de prompt uit
+> [`claude-continue-prompt.md`](claude-continue-prompt.md) — die oriënteert Claude en start M1.
+
 ---
 
 ## 2. Verwachte mappenstructuur
